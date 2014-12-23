@@ -1,0 +1,27 @@
+{
+  "name": "boy-girl",
+  "version": "1.0.0",
+  "description": "Determines whether a name is a boys name or a girls name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trevorah/boy-girl.git"
+  },
+  "keywords": [
+    "boy",
+    "girl",
+    "name",
+    "gender",
+    "matcher",
+    "tester"
+  ],
+  "author": "Andy Trevorah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevorah/boy-girl/issues"
+  },
+  "homepage": "https://github.com/trevorah/boy-girl"
+}
